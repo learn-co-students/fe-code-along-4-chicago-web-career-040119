@@ -121,5 +121,6 @@ clearfix:after {
 /*////////////////// Sections /////////////*/
 
 section {
-  margin-bottom;
+  margin-bottom: 20px;
+  padding: 20px;
 }
